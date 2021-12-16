@@ -235,4 +235,13 @@ html {
 	.col-3 {
 		width:100%;
 	}
+		.form {
+		width: 100%;
+	}
+	.nama, .email {
+		width: 50%
+	}
+	.pesan{
+		width: 75%;
+	}
 }
