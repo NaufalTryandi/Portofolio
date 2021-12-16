@@ -222,13 +222,13 @@ html {
 	.col-3 {
 		width:100%;
 	}
-		.form {
-		width: 100%;
-	}
 	.nama, .email {
-		width: 50%
+		width: 120px;
 	}
 	.pesan{
-		width: 75%;
+		width: 400px;
+	}
+	.kirim {
+		width: 40px;
 	}
 }
